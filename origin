@@ -1,0 +1,6 @@
+echo "# lesson-9-hands-on" >> README.md
+git init
+git add README.md
+git commit -m "my first comment yall!"
+git remote add origin https://github.com/CurtisCoy86/lesson-9-hands-on.git
+git push -u origin master
